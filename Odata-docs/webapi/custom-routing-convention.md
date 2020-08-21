@@ -181,7 +181,7 @@ The result is:
 
 b) 
 ```C#
-GET https://localhost/odata/Customers(2)/Location
+GET https://localhost/odata/Customers(2)/Salary
 ```
 
 The result is:
